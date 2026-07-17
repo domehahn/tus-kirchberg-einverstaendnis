@@ -4,8 +4,8 @@ export const config = {
   contactEmail: "info@tuskirchberg.de",
   website: "https://www.tuskirchberg.de",
   imprint: {
-    address: "Sandkuhlstraße 2–4, 55481 Kirchberg",
-    representative: "Peter Kleid",
+    address: "Raiffeisenstraße 4B, 55491 Büchenbeuren",
+    representative: "Dominik Hahn",
     registerCourt: "Amtsgericht Bad Kreuznach"
   },
   consents: [
